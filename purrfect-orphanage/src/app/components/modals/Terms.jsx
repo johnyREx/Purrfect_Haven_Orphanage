@@ -10,7 +10,7 @@ export default function TermsModal({ isOpen, onClose }) {
           <div
             className={`${merriweather.className} overflow-y-auto text-lg py-4 px-6 text-dark flex flex-row justify-between`}
           >
-            Furry Friends Terms and Conditions
+            PurrFect Orphanage Terms and Conditions
             <CloseCircle
               className="cursor-pointer"
               color="#ababab"
